@@ -4,7 +4,7 @@ var router = express.Router();
 const data = require('../data');
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Your First Express App', message: 'Express is actually pretty easy once you figure a few things out' });
+  res.render('index', { title: 'Welcome', message: 'This app is for the viewing of the new apple ipad air. you cann view the product in the nav below.' });
 });
 
 // get dynamic user via router parameter

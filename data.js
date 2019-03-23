@@ -5,18 +5,13 @@ const data = {
 
 
   user1: {
-    name: "user1",
-    role: "designer",
-    bio: "some generic text for user1",
-    bioPic: "gnome_child.jpg"
+    name: "IPAD AIR",
+    role: "Ipad Air",
+    bio: "The Ipad Air is thin an light and features the A12 Bionic Chip with Neural Engine, 10.5-inch Retina display and Apple Pencil and Smart Keyboard support.",
+    bioPic: "ipad_air.jpg"
   },
 
-  user2: {
-    name: "user2",
-    role: "developer",
-    bio: "some generic text for user2",
-    bioPic: "karamja_monkey.png"
-  },
+  
 }
 
 module.exports = data;
